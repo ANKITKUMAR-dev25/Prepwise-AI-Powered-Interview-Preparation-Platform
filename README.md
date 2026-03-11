@@ -1,6 +1,3 @@
-Here is a clean **README.md** example for **PrepWise – AI Interview Platform**. You can copy and use it directly in your project.
-
----
 
 # PrepWise – AI Interview Platform 🤖🎤
 
