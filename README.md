@@ -112,6 +112,4 @@ Contributions are welcome. You can improve the project by adding new interview m
 
 This project is licensed under the MIT License.
 
----
 
-If you want, I can also make a **more professional README used in GitHub projects (with badges, screenshots, and better sections)** for PrepWise.
